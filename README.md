@@ -7,6 +7,7 @@
 
 ### Data explanation
 - **print_bugzilla_query.py**: Script to query DLL injection related bugs from July 2015 to August 2017.
+- **get_bug_data.py**: Script to calculate metrics.
 - **manual_classification.csv**: Raw results from the above query and manual classification on the bugs.
 - **bug_type.csv**: Manual classification on the types of the bugs.
 - **bug_reproducibility.csv**: Manual classification on the reproducibility of the bugs.
